@@ -1,6 +1,4 @@
-Name: Fernando Carrillo (fcarril1)
-Class: CMPS101 w/ Patrick Tantalo
-Assignment: pa5
+Author: Fernando Carrillo (fcarril1@ucsc.edu)
 
 Description: A simple Depth First Search program written in C. FindComponent used an Adjacency List to calculate
 strongly connected components in a formated file representing a digraph. 
