@@ -2,6 +2,13 @@ Name: Fernando Carrillo (fcarril1)
 Class: CMPS101 w/ Patrick Tantalo
 Assignment: pa5
 
+Description: A simple Depth First Search program written in C. FindComponent used an Adjacency List to calculate
+strongly connected components in a formated file representing a digraph. 
+
+To Compile simply download all files and type "make". To run the program type FindComponents in1 out1. FindComponent
+parses the data in "in1" and finds all the strongly connected components alond with showing the user the Adjacency
+List used to extract the data. The output is written to "out1".
+
 Files Submitted: List.c, List.h, ListTest.c, Graph.c, Graph.h, GraphTest.c, FindComponents.c, Makefile, and README
 
 List.c:             Contains the doubly linked List ADT and all its functions.
