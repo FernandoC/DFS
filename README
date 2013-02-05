@@ -1,0 +1,26 @@
+Name: Fernando Carrillo (fcarril1)
+Class: CMPS101 w/ Patrick Tantalo
+Assignment: pa5
+
+Files Submitted: List.c, List.h, ListTest.c, Graph.c, Graph.h, GraphTest.c, FindComponents.c, Makefile, and README
+
+List.c:             Contains the doubly linked List ADT and all its functions.
+
+List.h:             Contains all the functions names in List.c to be used in FindComponent.c
+
+ListTest.c:         Contains a program that uses the List ADT to make sure everything
+                    is in order by calling all of its functions. 
+
+Graph.c:            Contains the Graph ADT along with the DFS functions
+
+Graph.h:            Contains all the function names in Graph.c to be used in FindComponent.c
+
+GraphTest.c:        Contains a program that uses the Graph ADT to make sure everything 
+                    is in order by calling all of its functions. 
+
+FindComponents.c:   Contains the top level program that reads in a formated file and turns it into
+                    a graph. It then proceeds to run DFS on the graph and finds its SCCs. 
+
+Makefile:           Compiles everything and makes the Shuffle program into a jar file.
+
+README:              The title serves its purpose. 
